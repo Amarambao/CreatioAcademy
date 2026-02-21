@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "ad57e4cb-90a0-8c66-1989-ac9809a061b1",
+    "Name": "EnableRootTriggerPostgre",
+    "DBEngineType": 2,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1771708083000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
