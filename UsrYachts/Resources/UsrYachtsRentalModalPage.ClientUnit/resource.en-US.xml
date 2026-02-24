@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Yacht rental modal page" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Rental" />
+			<Item Name="LocalizableStrings.addRecord_wxvbron_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

@@ -100,8 +100,13 @@
                 },
                 "BRC2": [
                   {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionShowElement",
+                    "UId": "29efe80d-f78a-aea4-c316-79e67cd56aad",
+                    "BRA4": "TicketPrice"
+                  },
+                  {
                     "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionEditableElement",
-                    "UId": "60dcf442-ed8b-f0ac-958f-1af95a3082e7",
+                    "UId": "df76a4bc-220f-e905-93b4-16e58b243147",
                     "BRA4": "TicketPrice"
                   }
                 ]
@@ -110,7 +115,7 @@
             "BR2": [
               {
                 "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
-                "UId": "25408898-e367-35b1-be12-e7b960649d7a",
+                "UId": "43723285-0bf4-6d7e-5da4-9b6fbee5ec04",
                 "BRT2": 2
               }
             ],
